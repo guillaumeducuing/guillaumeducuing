@@ -2,7 +2,7 @@
 
 Je suis un développeur front-end **minutieux et passionné**, spécialisé dans la création d’**expériences utilisateur innovantes, performantes et accessibles**.
 
-💻 Actuellement, je travaille en **remote chez Publidata**, un SaaS qui permet aux collectivités territoriales de **centraliser et diffuser efficacement leurs informations**.
+💻 Actuellement, je travaille en **remote chez [Publidata](https://www.publidata.io/)**, un SaaS qui permet aux collectivités territoriales de **centraliser et diffuser efficacement leurs informations**.
 
 ---
 
